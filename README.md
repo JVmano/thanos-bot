@@ -26,3 +26,7 @@ Invite the bot to your server using a [Discord Bot Invite Generator](https://dis
 0. Install dependencies using ```npm install``` or ```yarn```
 1. Run ```yarn commands``` after Installation topic steps and depencies installation
 2. Run ```yarn start``` to activate bot
+
+## Functions
+```/snap``` will ban half of discord members, can be used multiple times
+```/spare``` revert members bans

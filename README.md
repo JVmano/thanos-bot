@@ -29,4 +29,5 @@ Invite the bot to your server using a [Discord Bot Invite Generator](https://dis
 
 ## Functions
 ```/snap``` will ban half of discord members, can be used multiple times
+
 ```/spare``` revert members bans

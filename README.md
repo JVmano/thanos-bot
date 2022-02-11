@@ -23,6 +23,6 @@ The guild id can be found activating developer mode in discord going to configur
 Invite the bot to your server using a [Discord Bot Invite Generator](https://discordapi.com/permissions.html)
 
 ##  How to use
-0. Install dependencies using ```npm install``` or ```yarn````
+0. Install dependencies using ```npm install``` or ```yarn```
 1. Run ```yarn commands``` after Installation topic steps and depencies installation
 2. Run ```yarn start``` to activate bot

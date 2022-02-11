@@ -28,6 +28,6 @@ Invite the bot to your server using a [Discord Bot Invite Generator](https://dis
 2. Run ```yarn start``` to activate bot
 
 ## Functions
-```/snap``` will ban half of discord members, can be used multiple times
+- ```/snap``` will ban half of discord members, can be used multiple times
 
-```/spare``` revert members bans
+- ```/spare``` revert members bans
